@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programas para calcular el factorial", "programas para calcular el factorial\programas para calcular el factorial.csproj", "{2E05988F-269A-4100-A63A-34272642AF50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E05988F-269A-4100-A63A-34272642AF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E05988F-269A-4100-A63A-34272642AF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E05988F-269A-4100-A63A-34272642AF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E05988F-269A-4100-A63A-34272642AF50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED5E354-166C-4C67-A23B-330B4C55BFBD}
+	EndGlobalSection
+EndGlobal
